@@ -1,2 +1,3 @@
-# fast-task-manager-igwf
-Automated issue comment bot repository
+# Fast Task Manager Igwf
+
+Automated issue comment bot repository.
